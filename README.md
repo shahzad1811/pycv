@@ -1,4 +1,4 @@
-# pycv
+# Python Computer Vision (CV)
 
 ---
 
